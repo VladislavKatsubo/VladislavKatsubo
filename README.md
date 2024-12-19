@@ -25,12 +25,6 @@ I'm an experienced Middle iOS Developer with over **3 years of professional expe
 
 ---
 
-## 📈 **GitHub Widgets**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VladislavKatsubo&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavKatsubo&layout=compact&theme=radical)
-
----
-
 ## 🎯 **Achievements**
 - Facilitated migration of fintech users to a new platform, serving 7,000+ users.
 - Transitioned legacy interfaces to SwiftUI, reducing development time for new features.
