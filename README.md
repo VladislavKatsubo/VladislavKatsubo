@@ -17,7 +17,6 @@ I'm an experienced Middle iOS Developer with over **3 years of professional expe
 ---
 
 ## 🚀 **Notable Projects**
-- **Role:** Middle iOS Developer  
   - Built banking apps for individuals and businesses.
   - Developed 6 and helped to develop/maintained 15 apps in health & fitness, productivity and lifestyle categories with innovative features like Live Activity, Dynamic Island, and enhanced API security.
   - Helped to design scalable architectures using patterns like VIPER, MVVM+C, MVI and automated workflows to reduce module creation time by 95%.
